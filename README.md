@@ -16,11 +16,11 @@ File Structure:
 -> Calc_Style.css is created for styling using CSS class and id selectors by giving height , width, color , background-color , font-weight , font-family , font-size and many more. 
 It makes the structure of the web page more attractive.
 
--> Calc_logic.js is created for adding functionalities (like Addition , Substraction , multiplication & Division) for evaluation of Arthimetic operations entered by the user.
+-> Calc_logic.js is created for adding functionalities (like Addition , Substraction , multiplication & Division) for evaluation of Arithmetic operations entered by the user.
 
 Operations: This calculator can perform following operations which are listed below:
 1.Addition
-2.Substraction
+2.Subtraction
 3.Multiplication
 4.Division
 
