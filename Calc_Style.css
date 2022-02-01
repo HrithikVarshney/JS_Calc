@@ -1,0 +1,103 @@
+/* for styling */
+
+.container {
+    text-align : center;
+    max-width: 100%;  
+   }
+    
+   table{
+   margin : auto;
+    }
+   
+    #h1{
+      font-family: 'lucida Sans'; 
+      font-size: 40px;
+       
+    }
+   button{
+       width: 147px;
+       height: 64.5px;
+       margin: 3px;
+       border-radius: 15px;
+       border: 1px solid #f1f3f4;
+       background-color: rgb(241, 241, 241);
+       font-size: 25px;
+       font-weight: 600;
+       cursor: pointer;
+   
+    }
+   
+   
+   
+    button:active{
+       border : 2px solid #dce5e9;
+    }
+   
+   #input{
+      width: 594px;
+      height: 77px;
+      margin-bottom:  10px;
+      border-radius: 5px;
+      border: 1px solid #d4dce0;;
+      font-size: 35px;
+      padding: 0px 10px;
+      text-align: right;
+   
+    }
+   
+    .secondarybtn{
+        background-color:#e9ebee;
+    }
+
+        
+    .ansbtn {
+   
+       background-color: rgb(126, 247, 89);
+       font-weight: 700;
+       color: white;
+        
+    }
+   
+    #AC{
+        background-color: rgb(78, 240, 252);
+        color:white ;
+        font-family: monospace;
+    }
+   
+    #backbtn{
+
+        color: white;
+        background-color:rgb(252, 105, 105);
+        font-family: monospace;
+    }
+
+    #footer{
+        font-family: monospace;
+        font-size: x-large;
+    }
+   
+    
+    
+    @media screen and (max-width: 800px) {
+      button{
+        width: 15vw;
+        font-size: 4vw;
+        
+      }
+      #input{
+         width: 61vw;
+   
+      }
+      #h1{
+         font-size: 6vw;
+         }
+   
+      div #footer{
+            font-size: 2vw;
+      }
+    }
+   
+    div #footer{
+      margin-top: 50px;
+   }
+   
